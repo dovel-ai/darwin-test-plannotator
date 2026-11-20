@@ -310,7 +310,7 @@
         "@plannotator/ui": "workspace:*",
         "@plannotator/webtui": "0.1.0",
         "diff": "^8.0.3",
-        "lucide-react": "^1.59.0",
+        "lucide-react": "^1.72.0",
         "react": "^19.3.1",
         "react-dom": "^19.3.1",
         "sonner": "^2.0.8",
@@ -323,7 +323,7 @@
       "version": "0.0.1",
       "dependencies": {
         "@plannotator/core": "workspace:*",
-        "lucide-react": "^1.59.0",
+        "lucide-react": "^1.72.0",
       },
       "devDependencies": {
         "@types/react": "^19.3.0",
@@ -382,7 +382,7 @@
         "@plannotator/guide-viewer": "workspace:*",
         "@plannotator/shared": "workspace:*",
         "@plannotator/ui": "workspace:*",
-        "lucide-react": "^1.59.0",
+        "lucide-react": "^1.72.0",
         "marked": "^17.0.6",
         "motion": "^14.4.0",
         "react": "^19.3.1",
@@ -501,7 +501,7 @@
         "diff": "^8.0.4",
         "dompurify": "^3.4.17",
         "katex": "^0.19.0",
-        "lucide-react": "^1.59.0",
+        "lucide-react": "^1.72.0",
         "marked": "^17.0.6",
         "mermaid": "12.2.0",
         "motion": "^14.4.0",
@@ -2336,7 +2336,7 @@
 
     "lru_map": ["lru_map@0.4.1", "", {}, "sha512-I+lBvqMMFfqaV8CJCISjI3wbjmwVu/VyOoU7+qtu9d7ioW5klMgsTTiUOUp+DJvfTTzKXoPbyC6YfgkNcyPSOg=="],
 
-    "lucide-react": ["lucide-react@1.59.0", "", { "peerDependencies": { "@types/react": "*", "react": "^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0" }, "optionalPeers": ["@types/react"] }, "sha512-5qgMyyCPU6OvnKpLS2t693+ZtiqA8oaSweWoUows0BLFKFf6V75m4+CptpmohZHpD5IuOVIBXHBBiv2vpLJmtw=="],
+    "lucide-react": ["lucide-react@1.72.0", "", { "peerDependencies": { "@types/react": "*", "react": "^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0" }, "optionalPeers": ["@types/react"] }, "sha512-fbF5i1GU8GODETa3Q7rXqrJrcx3iPYrQtxthom103zGx+Z0BGwKYAW9s+9435ohYJ7hQm0av0PoZcqI1CRwNrg=="],
 
     "magic-string": ["magic-string@1.4.3", "", { "dependencies": { "@jridgewell/sourcemap-codec": "^1.6.0" } }, "sha512-z12OxmaPGE0F4xlpGdjuAUckipLpQlTAuAmyGhNoD7ODpYUzvDfvtxUbjM/jwznyP178oju/KDdyi220wNJ0RQ=="],
 
